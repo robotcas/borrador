@@ -2876,6 +2876,7 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
+  font-size: 16px;
 }
 
 .footer .footer-content .footer-links ul a:hover {
