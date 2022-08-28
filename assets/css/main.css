@@ -223,6 +223,15 @@ section {
   font-family: var(--font-secondary);
 }
 
+@media (min-width: 400px) {
+ .breadcrumbs h2 {
+  font-size: 32px;
+  font-weight: 500;
+  color: #fff;
+  font-family: var(--font-secondary);
+}
+}
+
 .breadcrumbs ol {
   display: flex;
   flex-wrap: wrap;
