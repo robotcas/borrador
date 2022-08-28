@@ -695,7 +695,7 @@ section {
 }
 
 .get-started .content p {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .get-started .php-email-form {
@@ -711,7 +711,7 @@ section {
 }
 
 .get-started .php-email-form h3 {
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -903,7 +903,7 @@ section {
 
 .services .service-item p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -1309,7 +1309,7 @@ section {
 
 .alt-services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 15px;
   margin-bottom: 0;
 }
 
@@ -2131,7 +2131,8 @@ section {
 
 .hero .info p {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 @media (max-width: 360px) {
