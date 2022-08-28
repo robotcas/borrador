@@ -1781,9 +1781,12 @@ section {
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Contact Section
+--------------------------------------------------------------*/
 .contact .info-item {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
-  padding: 20px 0 30px 0;
+  padding: 20px 15px 30px 15px;
 }
 
 .contact .info-item i {
@@ -1809,8 +1812,9 @@ section {
 .contact .info-item p {
   padding: 0;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
+  font-weight: 500;
 }
 
 .contact .php-email-form {
@@ -1822,6 +1826,19 @@ section {
 
 .contact .php-email-form .form-group {
   padding-bottom: 20px;
+}
+
+.contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #df1529;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .error-message br+br {
+  margin-top: 25px;
 }
 
 .contact .php-email-form .error-message {
