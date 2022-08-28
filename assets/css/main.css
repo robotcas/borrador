@@ -1522,19 +1522,19 @@ section {
 # Servie Cards Section
 --------------------------------------------------------------*/
 .services-cards h3 {
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 700;
   color: #000;
 }
 
 .services-cards p {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .services-cards ul li {
   display: flex;
   align-items: center;
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 10px;
 }
 
