@@ -2064,7 +2064,7 @@ section {
 
 @media (max-width: 768px) {
   .hero .info {
-    padding: 0 50px;
+    padding: -5px 50px;
   }
 }
 
