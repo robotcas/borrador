@@ -928,6 +928,10 @@ section {
   border: 0;
 }
 
+.col-3{
+  display: block;
+}
+
 .features .nav-link {
   padding: 15px 0;
   transition: 0.3s;
