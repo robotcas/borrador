@@ -885,6 +885,30 @@ color: #fff; }
 .spinner-border {
   color: #341d3ad2bf49; }
 
+/* icono de whatsapp */
+
+.btn-wsp {
+  position: fixed;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  bottom: 25px;
+  left: 18px;
+  background: #027333;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+}
+
+.btn-wsp:hover {
+  text-decoration: none;
+  color: #10ad25;
+  background: #fff;
+}
+
 /*PRELOADING------------ */
 #overlayer {
   width: 100%;
